@@ -1,2 +1,1 @@
-# everything-I-know-about-CSC-UT-INSA-program
-Everything I know about CSC/UT-INSA program.
+# 我所知道的关于CSC/UT-INSA项目的一切
