@@ -67,6 +67,10 @@
 - [住房补贴CAF攻略!再也不用跪下来叫CAF爸爸](https://mp.weixin.qq.com/s?__biz=MzU1NTY0MjQxOQ==&mid=2247500863&idx=2&sn=039ce47dc279283d86e2cfd37a1cc6e2&chksm=fbd3bf63cca43675c17988f5a34677d0637074d73d3c6a2d885f97f8fd1dbd72e563229fe797&mpshare=1&scene=1&srcid=0721IhMGYcESV1MMZ6LcSKW3&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 #### 搬家
 - [最新修改！在法国搬家防抑郁防崩溃指南](https://mp.weixin.qq.com/s?__biz=MzU1NTY0MjQxOQ==&mid=2247500889&idx=1&sn=c52917a0e22f6b5aa9f651289caf7bd7&chksm=fbd3bf05cca4361343fd89362075d05e71841a81707e4a38ad6c26edaefc1b9693faf9bff21c&mpshare=1&scene=1&srcid=0721hNYxQpcgPAOFxnPNYzZt&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
+
+### 报税
+- [2020年报税季今天开始！在法国的你需要这份超详细的报税攻略！](https://mp.weixin.qq.com/s?__biz=MjM5NDAzMzQwMA==&mid=2653478618&idx=4&sn=e06afc18fe962eeede9c6364c81e0fbf&chksm=bd51854d8a260c5bb78cee70d8368aab22cc7df89108025c250aa96844c1562a029666e833a9&mpshare=1&scene=1&srcid=&sharer_sharetime=1590924471129&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A%2F9kUtgh49LP1bi28p8IGkI%3D&pass_ticket=enSG72uGGOZgShptTbL3gIr2RPuPBgralgAcPmD9dx7DBckPk9JCi3jc2MIlI155#rd)
+
 ### 七嘴八舌
 - [来法各项手续进度记录 - 鲁昂2017](https://github.com/jajupmochi/everything-I-know-about-CSC-UT-INSA-program/blob/master/%E6%9D%A5%E6%B3%95%E5%90%84%E9%A1%B9%E6%89%8B%E7%BB%AD%E8%BF%9B%E5%BA%A6%E8%AE%B0%E5%BD%95%20-%20%E9%B2%81%E6%98%822017.md)
 
