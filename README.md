@@ -127,6 +127,10 @@
 ## 法兰西漫游指南：不要忘了毛巾
 - [更新|新生手册第二版本 - 鲁昂版](https://mp.weixin.qq.com/s?__biz=MzA4ODAzNzk2OQ==&mid=505259754&idx=1&sn=e7b5fb394d04eb507a98f286cd261e5e&chksm=0bd949d43caec0c28b89298c7e9a26b0e49486177209fb40770dfa87579140cd2f6de7ba0ae0&scene=18&xtrack=1&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 - [更新|鲁昂留学生活指南](https://mp.weixin.qq.com/s?__biz=MzA4ODAzNzk2OQ==&mid=403982967&idx=1&sn=b8f24f9a55506b8bf2e708911d2890db&chksm=0dd0a5493aa72c5fa1674709ff19bb6ec51d61a56e28ba17501b8086e910b2add1d1389b8f55&scene=18&xtrack=1&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
+
+### 组织在身边
+- 巴黎地区公派学者学生联谊会。微信公众号：ABCF
+
 ### 吃吃吃！
 - [法国菜菜名实用单词大全](https://mp.weixin.qq.com/s?__biz=MjM5NzIwOTQ2MA==&mid=2649517176&idx=1&sn=c0baa48c0ddc3e3dcfc06bbad684d627&chksm=bec5b86389b23175c7adabc5daf4726b033c1af3aef3575611ea45df2d3d541502e6c5668751&mpshare=1&scene=1&srcid=0819kzimSA8mypVP01iqfHAr&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 - [法国甜点大全！请忽视部分甜品（尤其最后一个）的译名](https://mp.weixin.qq.com/s?__biz=MjM5MzA4NjU4MA==&mid=2651568733&idx=3&sn=95a1da4e0042786f5068b06b3ed1f353&chksm=bd6377468a14fe501dccda08e78f178553c920d1064388dfb533c05e2556877d72c2a7bab8db&mpshare=1&scene=1&srcid=0808zZbjXIBNJ4r7oB6AXq9k&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
