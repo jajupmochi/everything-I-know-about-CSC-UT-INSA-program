@@ -2,6 +2,8 @@
 
 **[2020年招生网址](http://www-csc.utt.fr/)**
 
+- [【转载补充】敲黑板｜干货超多的留法行前准备课，笔记和回放请收好！ - 2020版](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=1&sn=701c5e43acfc104e4874e2b5257e9772&chksm=bea0c31189d74a073cdceb52510af7a2ad11977b78c800a5d4117a7fa7ccbeb0d68e994e62ca&mpshare=1&scene=1&srcid=1220Wl8aDuPwFFlzMENafsx5&sharer_sharetime=1608475783516&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A7llA5kdbXFPFJCBAceXwqk%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
+
 ## 申请
 
 ## 准备出国
@@ -20,12 +22,16 @@
 ### 带啥去呢？
 - [留学法国的行李都带齐了吗 - 2017版](https://mp.weixin.qq.com/s?__biz=MjM5MjE3NTM5MQ==&mid=2650228315&idx=2&sn=85fa0b048b5395ff7433c19035e51ed2&chksm=bea9a22b89de2b3d628262f1b7af64be680df48d36f94308a7522ac34e2f5651a3b0dc5b30e8&mpshare=1&scene=1&srcid=0714a9jODTbDgvUlwduBTYnB&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 
+### 海外申请
+- [【海外(法国)申请CSC成功的同学请参考】办事流程经验 - 2020版](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=3&sn=99eee1a5a68ee6657e5f8b10e20d6bd1&chksm=bea0c31189d74a07535f2ca58b7a193a18eb01b8cd728a6afc7addd36cf1c5d5cbb8476a616e&mpshare=1&scene=1&srcid=1220822g5rwTYV0DO8S9v2LP&sharer_sharetime=1608475912451&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A1H06bhRHWnGZCL%2FLNFv1l4%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
+
 ## 到达法国后：那些你不得不办的事
 - [【新生手册】初到法国竟有这么多事需要办！ - 2017版](https://mp.weixin.qq.com/s?__biz=MzAxMDA0MDgyMg==&mid=2650659947&idx=1&sn=8795766cec67ab6b7bed4461ba21ef0f&chksm=835f18f2b42891e4c90db6ed794a2ab55ff0c43501e801c1e39139581d8bb8b280f052babf02&mpshare=1&scene=1&srcid=0811xFHOjRHLiIo8w8G6EGdE&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 
 ### 向父母家人报平安
 
 ### CSC报到
+- [【年度更新攻略】关于公派生报到和法语版奖学金证明的年度更新 - 2020版](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=2&sn=ee643baea483019c6fd4458df1b3895a&chksm=bea0c31189d74a078e418ec813d2376f4d58d9a0873407c056063a3f1c7e12a7cb5454726b6c&mpshare=1&scene=1&srcid=1220ft3Va39pOHd6wTbXokRe&sharer_sharetime=1608475893951&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A9Ab7PT72PnBdPm%2FDnVvBA0%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
 - [国家公派留法人员各类手续办理须知](http://www.education-ambchine.org/publish/portal116/tab5722/info131526.htm?from=singlemessage)
 
 ### 如何申请电话卡
@@ -36,9 +42,12 @@
 
 ### 如何申请银行卡
 - 一般情况下，拿着护照，学生证，住宿证明，资助证明，录取通知书去银行办理即可，你会有一个RIB号码，一星期后，你会收到一封信，里面装着卡，再过一星期后，你会收到一封信，里面含有银行卡的密码。出现什么问题，可以直接去银行的agence去询问。
+
 ### 如何申请OFII
 - 一般情况下，需要找INSA的秘书来帮你完成申请。需要提交的电子版材料有：护照，签证，照片（3.5*4.5cm灰白底或白底），出生证明（法语），居住证明，奖学金证明，学籍证明（INSA开具）。提交给秘书之后，6-8周之后，他/她会通知你预约好的时间，此时需要在网上买一张60欧的stamp，然后你去移民局领你的OFII即可。
+- [【转载补充】2020年OFII法国留学生居留证线上申请流程攻略](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=5&sn=8d4d6662d9243d6b23dca42612f6afc9&chksm=bea0c31189d74a07fe65d23e11d9d21b6d4d832e0ba0b37ef0414c6252de0a2c5450ffa6d8d0&mpshare=1&scene=1&srcid=1220EiZF8Jy4hBBY52qAnt8c&sharer_sharetime=1608475928634&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=Ax9Nx4FRkRAGRl7xRMogiLM%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
 - [感天动地：把OFII/CAF房补/医疗保险约到一起 一次性搞定所有问题！ - 2017版](https://mp.weixin.qq.com/s?__biz=MzU1NTY0MjQxOQ==&mid=2247500857&idx=1&sn=fdbf49db9b28cb4990ceb38d44ffd345&chksm=fbd3bf65cca43673779a4be64625139560aee671178b3e7a8bfaace9f159cd450ba29ded8f2b&mpshare=1&scene=1&srcid=0721VXYSonkPxwPvR3P4H2iS&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
+
 ### 如何申请长居卡
  - 一般情况下，INSA的秘书会通知你应该提交哪些文件。包括：护照，签证，2张照片（需要在当地的机器照，国内的照片不符合标准），OFII，出生证明（法语），学籍证明（下一年·新），资助证明（法语），居住证明（下一年·新），社会保险证明（下一年·新）。
 
@@ -46,9 +55,11 @@
 - [ameli étranger官网](https://etudiant-etranger.ameli.fr/espace/#/)
 - [ameli官网](https://assure.ameli.fr/PortailAS/appmanager/PortailAS/assure?_nfpb=true&_pageLabel=as_accueil_page)
 - [CVEC官网](https://cvec.etudiant.gouv.fr/)
+- [【转载补充】在法国生病看病用什么报销？法国Ameli社保卡/Carte Vitale医保卡办理全攻略！ - 2020版](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=7&sn=93d43a4f5f009845a3e51e38c866a08d&chksm=bea0c31189d74a077fcc412ec7c9080179829812cbec5e2fa6babc6da73d917be8b08d747d74&mpshare=1&scene=1&srcid=1218Xy1raNAH7d08IapQ6Bzg&sharer_sharetime=1608475942014&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A1bKbLnXb1L4VnYiNpmlChQ%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
 - [新生福利-关于法国SECU改革和CVEC新政你需要知道的一切](https://zhuanlan.zhihu.com/p/41891408)
 - [[福利] 法国的社会保险大全 ](https://www.huarenjie.com/thread-1064710-1-1.html)
 - [手把手教你申请法国医保——一卡在手，就医无忧](http://www.oushidai.com/information/pc/1092)
+
 ### 找房子咯！
 - [CROUS官网](https://www.messervices.etudiant.gouv.fr/envole/)
 - 学生找房子一般在CROUS上面找。首先要申请一个DSE（需要你的INE号码，该号码在你的学籍证明里），然后根据要求提交材料。不久，会收到一封邮件，需要你按照要求提交材料寄送到当地的CROUS。然后你可以按照网上的提示选2个你想住的地方和户型。如果有问题，可以直接到当地的CROUS办事处询问工作人员。
@@ -59,12 +70,16 @@
 - [ADH官网](https://www.assurances-etudiants.com/)
 - 住房保险一年是20多欧，在该网站申请成功付费以后，会立即生成一个合同，下载下来即可。
 - 房子申请成功后，你所申请的地方的Madam会要求你提交材料：护照，照片（3.5*4.5cm，任意背景），签证，住房保险（只需要第一页），住房担保，学籍证明（新）
+
 #### 住房担保
 - [Visale官网](https://www.visale.fr/)
 - 在该网站申请即可，会生成一个住房担保证明，免费。
+
 #### 房补
 - [CAF](https://www.caf.fr/)
+- [【转载补充】申请房补无从下手？2020年超全CAF攻略来啦！(附视频)  - 2020版](https://mp.weixin.qq.com/s?__biz=MjM5MjU5OTM3OQ==&mid=2650259245&idx=6&sn=a1d5d08c94143d4033aa59f0a951d0b5&chksm=bea0c31189d74a0707ac18c439568ba70a2fca664f091c36bb2954c18f3bb91491ba9f285b10&mpshare=1&scene=1&srcid=1220oUoUQikaSIum1uQecUST&sharer_sharetime=1608475936047&sharer_shareid=62a1daf08af9b40db10554ff08651ee6&exportkey=A%2Bi6ssUZzDun3dC%2FWi9w91w%3D&pass_ticket=G6l0u%2FecCpyDVjAfTTjGnGQQ0R4B5P%2BYNVCvDPwoUB9E%2Bq5%2FGtho7BTwUUw8PjYS&wx_header=0#rd)
 - [住房补贴CAF攻略!再也不用跪下来叫CAF爸爸](https://mp.weixin.qq.com/s?__biz=MzU1NTY0MjQxOQ==&mid=2247500863&idx=2&sn=039ce47dc279283d86e2cfd37a1cc6e2&chksm=fbd3bf63cca43675c17988f5a34677d0637074d73d3c6a2d885f97f8fd1dbd72e563229fe797&mpshare=1&scene=1&srcid=0721IhMGYcESV1MMZ6LcSKW3&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
+
 #### 搬家
 - [最新修改！在法国搬家防抑郁防崩溃指南](https://mp.weixin.qq.com/s?__biz=MzU1NTY0MjQxOQ==&mid=2247500889&idx=1&sn=c52917a0e22f6b5aa9f651289caf7bd7&chksm=fbd3bf05cca4361343fd89362075d05e71841a81707e4a38ad6c26edaefc1b9693faf9bff21c&mpshare=1&scene=1&srcid=0721hNYxQpcgPAOFxnPNYzZt&pass_ticket=XdxVQBLO6s1QivmvePcsSt3HYeLPLljxzLJn%2BV17rlJvyW%2B9KcMv2EgADn0E8851#rd)
 
